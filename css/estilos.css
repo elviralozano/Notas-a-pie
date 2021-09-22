@@ -4,7 +4,7 @@
   font-family: '212 Phoenix Sans Regular';
   font-style: normal;
   font-weight: normal;
-  src: local("212 Phoenix Sans Regular"), url("212 Phoenix Sans DEMO.woff") format("woff");
+  src: url("212 Phoenix Sans DEMO.woff");
 }
 
 * {
